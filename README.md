@@ -1,2 +1,2 @@
-# NLD_seminar_2023
+# NLD_seminar_WS2023
 Stability analysis, Bifurcations and Lyapunov Exponents
